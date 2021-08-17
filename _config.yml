@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qian Cao"
-  avatar           : # "profile.png"
+  avatar           : "profile.png"
   bio              : "A master student at GSAI, RUC."
   location         : "Beijing"
   employer         :
