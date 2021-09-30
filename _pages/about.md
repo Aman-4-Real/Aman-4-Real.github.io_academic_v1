@@ -1,17 +1,24 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Bio"
+excerpt: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I’m a master student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [RUC](https://www.ruc.edu.cn/). I’m currently learning NLP, especially NLG, dialogue, and multimodality.
+A master student at Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn/)).
+
+I am advised by Prof.[Ruihua Song](https://scholar.google.com.hk/citations?user=v5LctN8AAAAJ&hl=en). My research interests lie on Natural Language Generation, Dialogue System, and Multi-modality.
 
 
-# Publications
+# Education
+- <b>M.E.</b>, 2020 - present; <b>Renmin University of China</b>; Artificial Intelligence.
+- <b>B.E.</b>, 2016 - 2020; <b>Renmin University of China</b>; Computer Science.
+
+
+<!-- # Publications
 
 
 
@@ -19,8 +26,6 @@ I’m a master student at [Gaoling School of Artificial Intelligence](http://ai.
 
 
 
-
-
-# Blog Posts
+# Blog Posts -->
 
 
