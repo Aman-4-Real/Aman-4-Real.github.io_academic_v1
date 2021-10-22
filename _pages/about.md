@@ -37,7 +37,6 @@ I'm a second year master student advised by Prof. [Ruihua Song](https://scholar.
 ## Experiences
 
 - 2021.6 - Now: Research Intern, Microsoft  
-
 Mentor: [Can Xu](https://www.microsoft.com/en-us/research/people/caxu/)
 
 <!-- # Publications
