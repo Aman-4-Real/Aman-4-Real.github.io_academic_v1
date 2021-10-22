@@ -26,12 +26,19 @@ I'm a second year master student advised by Prof. [Ruihua Song](https://scholar.
 - <b>B.E.</b>, 2016 - 2020; <b>Renmin University of China</b>; Computer Science. -->
 
 
-## Preprints & Publications
+## Preprints
 **2021**
 
 1. **Qian Cao**, Ruihua Song. ["Simulated Experiences based Long Verse Generation"](). (Under Review)
 
 2. **Qian Cao**, Ruihua Song, ["Constructing Parallelism with Semantic Structural Alignment"](). (Under Review)
+
+
+## Experiences
+
+- 2021.6 - Now: Research Intern, Microsoft  
+
+Mentor: [Can Xu](https://www.microsoft.com/en-us/research/people/caxu/)
 
 <!-- # Publications
 
