@@ -10,10 +10,9 @@ locale                   : "zh-CN"
 title                    : "Qian Cao"
 title_separator          : "-"
 name                     : &name "Qian Cao"
-description              : &description 
-# "Master student@RUC"
+description              : &description "Master student@RUC"
 url                      : https://aman-4-real.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aman-4-real/aman-4-real.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -83,15 +82,13 @@ analytics:
 author:
   name             : "Qian Cao"
   avatar           : "profile.png"
-  bio              : "An NLPer."
-  # "A master student at GSAI, RUC."
-  location         : 
-  # "Beijing"
+  bio              : "A master student at GSAI@RUC."
+  location         : "Beijing"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "cq335955781@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Qian-Cao-28"
   uri              :
   bitbucket        :
   codepen          :
