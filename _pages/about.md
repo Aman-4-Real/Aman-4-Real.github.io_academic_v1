@@ -16,7 +16,7 @@ I'm a second year master student at Gaoling School of Artificial Intelligence ([
 * Open Domain Dialogue System
 * Multi-modality: Multi-modal Understanding and Interaction
 
-# Education
+## Education
 - <b>M.E.</b>, 2020 - present; <b>Renmin University of China</b>; Artificial Intelligence.
 - <b>B.E.</b>, 2016 - 2020; <b>Renmin University of China</b>; Computer Science.
 
