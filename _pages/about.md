@@ -21,12 +21,12 @@ I'm a second year master student at Gaoling School of Artificial Intelligence ([
 - <b>B.E.</b>, 2016 - 2020; <b>Renmin University of China</b>; Computer Science.
 
 
-## Current Works
+<!-- ## Current Works
 **2021**
 
 1. **Qian Cao**, Ruihua Song. ["Simulated Experiences based Long Verse Generation"]().
 
-2. **Qian Cao**, Ruihua Song, ["Constructing Parallelism with Semantic Structural Alignment"]().
+2. **Qian Cao**, Ruihua Song, ["Constructing Parallelism with Semantic Structural Alignment"](). -->
 
 
 ## Experiences
