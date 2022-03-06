@@ -41,14 +41,14 @@ Prof.: Ruihua Song, Introduction to Artificial Intelligence
 
 ## Awards
 
-- Merit Student of Beijing, 2021
+- Merit Student of Beijing, 2021.
 - 1st Class Grade Scholarship (30%), Renmin Univ. of China, 2020, 2021.
 - Outstanding Graduate, Renmin Univ. of China, 2020.
-- National Level of Undergraduate Innovative Test Program, 2018
-- Honorable Mention of MCM/ICM, the U.S., 2018
-- 1st Prize of China Undergraduate Mathematical Contest in Modeling in Beijing, 2018
+- National Level of Undergraduate Innovative Test Program, 2018.
+- Honorable Mention of MCM/ICM, the U.S., 2018.
+- 1st Prize of China Undergraduate Mathematical Contest in Modeling in Beijing, 2018.
 - 2nd Class Scholarship for Social Work and Volunteering, Renmin Univ. of China, 2017.
-- Outstanding Student Leader, Sichuan Province, 2016
+- Outstanding Student Leader, Sichuan Province, 2016.
 
 
 
