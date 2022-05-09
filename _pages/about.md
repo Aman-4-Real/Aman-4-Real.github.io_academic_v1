@@ -12,9 +12,9 @@ I'm a second year master student at Gaoling School of Artificial Intelligence ([
 
 **Research Interests**
 
-* Natural Language Generation: Text Generation, Poem Generation
-* Open Domain Dialogue System
-* Multi-modality: Multi-modal Understanding and Interaction
+* Natural Language Processing: Text Generation
+* Dialogue System: Open Domain & Multi-modality
+<!-- * Multi-modality: Multi-modal Understanding and Interaction -->
 
 ## Education
 - <b>M.E.</b>, 2020 - present; <b>Renmin University of China</b>; Artificial Intelligence.
@@ -31,8 +31,9 @@ I'm a second year master student at Gaoling School of Artificial Intelligence ([
 
 
 ## Experiences
+<!-- - 2022.6 - Now: **Research Intern**, **Tencent AI Lab** <br> -->
 
-- 2021.6 - Now: **Research Intern**, **Microsoft Software Technology Center at Asia** <br>
+- 2021.6 - 2022.2: **Research Intern**, **Microsoft Software Technology Center at Asia** <br>
 Mentor: [Can Xu](https://nlpxucan.github.io/), Bing powered Xiaoice 
 
 - 2021 Fall: **Teaching Assistant**, **Renmin Univ. of China** <br>
