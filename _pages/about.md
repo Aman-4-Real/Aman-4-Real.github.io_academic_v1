@@ -23,7 +23,7 @@ I'm a second year master student at Gaoling School of Artificial Intelligence ([
 
 ## Research Works
 
-1. **Qian Cao**, Xu Chen, Ruihua Song. ["Multi-Modal Experience Enhanced Text Generation"]().
+1. **Qian Cao**, Xu Chen, Ruihua Song. ["Multi-Modal Experience Inspired AI Creation"]().
 
 2. **Qian Cao**, Ruihua Song. ["Simulated Experiences based Long Verse Generation"]().
 
@@ -32,6 +32,8 @@ I'm a second year master student at Gaoling School of Artificial Intelligence ([
 
 ## Experiences
 <!-- - 2022.6 - Now: **Research Intern**, **Tencent AI Lab** <br> -->
+- 2022.6 - Now: **Research Intern**, **Tencent AI Lab** <br>
+Mentor: Yan Wang
 
 - 2021.6 - 2022.2: **Research Intern**, **Microsoft Software Technology Center at Asia** <br>
 Mentor: [Can Xu](https://nlpxucan.github.io/), Bing powered Xiaoice 
