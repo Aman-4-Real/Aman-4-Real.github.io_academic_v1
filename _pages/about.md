@@ -17,20 +17,21 @@ I'm a second year master student at Gaoling School of Artificial Intelligence ([
 <!-- * Multi-modality: Multi-modal Understanding and Interaction -->
 
 ## Education
-- <b>M.E.</b>, 2020 - present; <b>Renmin University of China</b>; Artificial Intelligence.
-- <b>B.E.</b>, 2016 - 2020; <b>Renmin University of China</b>; Computer Science.
-
+- <b>M.E., Renmin University of China</b> <br>
+2020 - present; Artificial Intelligence.
+- <b>B.E., Renmin University of China</b> <br>
+2016 - 2020; Computer Science.
 
 
 ## Publication
 
-1. ["Multi-Modal Experience Inspired AI Creation"]().
-**Qian Cao**, Xu Chen, Ruihua Song*, Hao Jiang, Guang Yang, Zhao Cao. 
-ACM Multimedia, 2022.
+- **Multi-Modal Experience Inspired AI Creation.** <br>
+**Qian Cao**, Xu Chen, Ruihua Song*, Hao Jiang, Guang Yang, Zhao Cao. <br>
+**ACM Multimedia, 2022.** [[paper]]() [[code]](https://github.com/Aman-4-Real/MMTG)
 
-<!-- 2. **Qian Cao**, Ruihua Song. ["Simulated Experiences based Long Verse Generation"](). -->
+<!-- - **Qian Cao**, Ruihua Song. ["Simulated Experiences based Long Verse Generation"](). -->
 
-<!-- 2. **Qian Cao**, Ruihua Song, ["Constructing Parallelism with Semantic Structural Alignment"](). -->
+<!-- - **Qian Cao**, Ruihua Song, ["Constructing Parallelism with Semantic Structural Alignment"](). -->
  (*Corresponding authors)
 
 
@@ -38,13 +39,16 @@ ACM Multimedia, 2022.
 ## Experiences
 <!-- - 2022.6 - Now: **Research Intern**, **Tencent AI Lab** <br> -->
 - 2022.6 - Now: **Research Intern**, **Tencent AI Lab** <br>
-Mentor: Yan Wang
+Mentor: [Yan Wang](https://libertywing.github.io/yanwang.github.io/), NLP Center.
+
+- 2020.9 - Now: **Research Assistant**, Beijing Key Lab of Big Data Management and Analysis Methods.
+Advisor: [Ruihua Song](https://scholar.google.com.hk/citations?user=v5LctN8AAAAJ&hl=en), AIMind Group.
 
 - 2021.6 - 2022.2: **Research Intern**, **Microsoft Software Technology Center at Asia** <br>
-Mentor: [Can Xu](https://nlpxucan.github.io/), Bing powered Xiaoice 
+Mentor: [Can Xu](https://nlpxucan.github.io/), Bing powered Xiaoice.
 
 - 2021 Fall: **Teaching Assistant**, **Renmin Univ. of China** <br>
-Prof.: Ruihua Song, Introduction to Artificial Intelligence
+Prof.: Ruihua Song, Introduction to Artificial Intelligence.
 
 
 
