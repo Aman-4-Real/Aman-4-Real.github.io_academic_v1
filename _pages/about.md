@@ -12,7 +12,7 @@ I'm a second year master student at Gaoling School of Artificial Intelligence ([
 
 **Research Interests**
 
-* Natural Language Processing: Text Generation
+* Natural Language Generation
 * Dialogue System: Open Domain & Multi-modality
 <!-- * Multi-modality: Multi-modal Understanding and Interaction -->
 
@@ -21,13 +21,18 @@ I'm a second year master student at Gaoling School of Artificial Intelligence ([
 - <b>B.E.</b>, 2016 - 2020; <b>Renmin University of China</b>; Computer Science.
 
 
-## Research Works
 
-1. **Qian Cao**, Xu Chen, Ruihua Song. ["Multi-Modal Experience Inspired AI Creation"]().
+## Publication
 
-2. **Qian Cao**, Ruihua Song. ["Simulated Experiences based Long Verse Generation"]().
+1. ["Multi-Modal Experience Inspired AI Creation"]().
+**Qian Cao**, Xu Chen, Ruihua Song*, Hao Jiang, Guang Yang, Zhao Cao. 
+ACM Multimedia, 2022.
 
-2. **Qian Cao**, Ruihua Song, ["Constructing Parallelism with Semantic Structural Alignment"]().
+<!-- 2. **Qian Cao**, Ruihua Song. ["Simulated Experiences based Long Verse Generation"](). -->
+
+<!-- 2. **Qian Cao**, Ruihua Song, ["Constructing Parallelism with Semantic Structural Alignment"](). -->
+ (*Corresponding authors)
+
 
 
 ## Experiences
@@ -40,6 +45,7 @@ Mentor: [Can Xu](https://nlpxucan.github.io/), Bing powered Xiaoice
 
 - 2021 Fall: **Teaching Assistant**, **Renmin Univ. of China** <br>
 Prof.: Ruihua Song, Introduction to Artificial Intelligence
+
 
 
 ## Awards
