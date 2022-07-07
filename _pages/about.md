@@ -38,16 +38,16 @@ I'm a second year master student at Gaoling School of Artificial Intelligence ([
 
 ## Experiences
 <!-- - 2022.6 - Now: **Research Intern**, **Tencent AI Lab** <br> -->
-- 2022.6 - Now: **Research Intern**, **Tencent AI Lab** <br>
+- 2022.6 - Now: Research Intern, Tencent AI Lab <br>
 Mentor: [Yan Wang](https://libertywing.github.io/yanwang.github.io/), NLP Center.
 
-- 2020.9 - Now: **Research Assistant**, Beijing Key Lab of Big Data Management and Analysis Methods.
+- 2020.9 - Now: Research Assistant, Beijing Key Lab of Big Data Management and Analysis Methods.
 Advisor: [Ruihua Song](https://scholar.google.com.hk/citations?user=v5LctN8AAAAJ&hl=en), AIMind Group.
 
-- 2021.6 - 2022.2: **Research Intern**, **Microsoft Software Technology Center at Asia** <br>
+- 2021.6 - 2022.2: Research Intern, Microsoft Software Technology Center at Asia <br>
 Mentor: [Can Xu](https://nlpxucan.github.io/), Bing powered Xiaoice.
 
-- 2021 Fall: **Teaching Assistant**, **Renmin Univ. of China** <br>
+- 2021.9 - 2021.12: Teaching Assistant, Renmin Univ. of China <br>
 Prof.: Ruihua Song, Introduction to Artificial Intelligence.
 
 
